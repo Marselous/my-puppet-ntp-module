@@ -1,0 +1,14 @@
+{
+  "name": "justfreak-ntp",
+  "version": "0.1.0",
+  "author": "Stanislav Vainer <stanislav.vainer@outlook.com>",
+  "summary": "This module will manage ntp",
+  "license": "Apache-2.0",
+  "source": "https://github.com/Marselous/my-puppet-ntp-module.git",
+  "project_page": "https://github.com/Marselous/my-puppet-ntp-module.git",
+  "issues_url": "https://github.com/Marselous/my-puppet-ntp-module.git",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": "null"
+}

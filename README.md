@@ -1,0 +1,1 @@
+# my-puppet-ntp-module
